@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/607588720.svg)](https://doi.org/10.5281/zenodo.14012589)
+
 # The reference-free *Arabidopsis thaliana* pangenome
 
 This repository collects all the commands and script used for the reference-free *Arabidopsis thaliana* pangenome. This work is part of the PhD project carried out by Lia Obinu.
