@@ -4,6 +4,12 @@
 
 This repository collects all the commands and script used for the reference-free *Arabidopsis thaliana* pangenome. This work is part of the PhD project carried out by Lia Obinu.
 
+If you use the code and methods explain in this repository, please cite our pre-print:
+
+> The reference-free pangenome of Arabidopsis thaliana \
+Lia Obinu, Andrea Guarracino, Urmi Trivedi, Andrea Porceddu \
+bioRxiv 2025.06.25.661508; doi: https://doi.org/10.1101/2025.06.25.661508 
+
 
 # Table of contents
 
